@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome! 
 
 <!--
 **alexgherghiceanu/alexgherghiceanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Alexandru-Bogdan Gherghiceanu and I am currently studying Computer Science at the Automatic Control and Computer Science Faculty of the Bucharest Polytehnic University. I am deeply fascinated by how the advancement of technology reflects upon our daily lives and hope to one day put my skills to use in pursuit of pushing current knowledge to it's limits. 
+
+# About me :
+
+- I am proficient in multiple programming languages, such as C, Java and Python, alongside being familiar with both Assembly and Matlab.
+- I have a strong interest in emerging technologies, such as AI or Quantum Computing, and I am always striving to further my knowledge of these fields.
+- I am a highly competitive person and I always try to push myself out of my comfort zone. To achieve this, I try to participate in different hackathons.
+- I am currently focused on studying functional programming and communication protocols. 
